@@ -507,6 +507,7 @@ export const typeContent = [
 
 export const languages = [
 
+    { value: "de", label: "Selecionar" },
     { value: "de", label: "Alemão" },
     { value: "ar", label: "Árabe" },
     { value: "es-LA", label: "Espanhol (América Latina)" },
